@@ -16,6 +16,9 @@ pro.txt     case.txt      media.txt为测试数据
 main.c  为主程序，tes.h为头文件
 
 
+以下是该管理系统的需求与功能实现
+
+
 
 
 贪腐案件信息管理系统
