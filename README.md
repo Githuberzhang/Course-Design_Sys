@@ -1,8 +1,17 @@
+
+Created by ZhangMing
+All Rights Reserved
+
 耗时两个月的管理系统
+
 全部用C语言实现
+
 没有使用任何图形库
+
 控制台程序，调用若干Console API函数接口
-pro.txt     case.txt      media.txt     为测试数据
+
+pro.txt     case.txt      media.txt为测试数据
+
 main.c  为主程序，tes.h为头文件
 
 
